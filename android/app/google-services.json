@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146273682015",
+    "project_id": "notebin-998ea",
+    "storage_bucket": "notebin-998ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146273682015:android:f496bdd363744a338751ea",
+        "android_client_info": {
+          "package_name": "com.example.notebin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkci_sPhR-49EfVA1uo6BpEBbgkQtB3zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
